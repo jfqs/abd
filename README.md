@@ -28,5 +28,5 @@ Listado de interfaces asignadas :shipit:
       - [ ] indicadores:pacientes con mas vicitas en cirtas fechas
   2. TECNICO
     1. MANTENIMIENTO DE LA BD
-      - [ ] ajustes
+      - [x] ajustes
     2. CONTINGENCIA
