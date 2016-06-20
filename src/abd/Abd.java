@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 package abd;
-
+// te odio netbeans
+import abd.Online.Gerencial.GestionParametros.*;
+import abd.Batch.Tecnico.Mantenimiento.*;
 
 /**
  *
@@ -17,7 +19,8 @@ public class Abd {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-       
+       CatalogoEspecialidad ch = new CatalogoEspecialidad();
+       ch.setVisible(true);
     }
     
 }
